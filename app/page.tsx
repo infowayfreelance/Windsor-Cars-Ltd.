@@ -26,12 +26,12 @@ export default function Home() {
     {
       name: "Airport Transfers",
       desc: "Real-time flight monitoring and meet-and-greet at all major London airports.",
-      img: "/Airport Transfer Luxury Pickup Service.webp",
+      img: "/Airport Transfers.jpg",
     },
     {
       name: "City to City",
       desc: "Comfortable, punctual inter-city transfers between all major UK cities.",
-      img: "/City to City Transfer Service.webp",
+      img: "/City to City Transfers.jpg",
     },
     {
       name: "Wedding Cars",
@@ -51,7 +51,7 @@ export default function Home() {
     {
       name: "Tourist Day Service",
       desc: "Explore the UK's finest landmarks in absolute luxury with a knowledgeable chauffeur.",
-      img: "/Tourist Day Service.webp",
+      img: "/Tourist Day Service.jpg",
     },
   ];
 

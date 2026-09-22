@@ -18,7 +18,7 @@ const services = [
       "Fixed pricing — no surge charges",
     ],
     accent: "bg-primary",
-    img: "/Airport Transfer Luxury Pickup Service.webp",
+    img: "/Airport Transfers.jpg",
   },
   {
     icon: "business_center",
@@ -33,7 +33,7 @@ const services = [
       "Meet at reception or kerbside",
     ],
     accent: "bg-primary-container",
-    img: "/Executive arrival at luxury conference center.webp",
+    img: "/Executive Business Travel.jpg",
   },
   {
     icon: "route",
@@ -48,7 +48,7 @@ const services = [
       "Flexible scheduling — early or late",
     ],
     accent: "bg-primary",
-    img: "/City to City Transfer Service.webp",
+    img: "/City to City Transfers.jpg",
   },
   {
     icon: "favorite",
@@ -93,7 +93,7 @@ const services = [
       "Available city-wide 24/7",
     ],
     accent: "bg-primary",
-    img: "/Hourly Hire Luxury arrival in the city.webp",
+    img: "/Hourly Hire.jpg",
   },
   {
     icon: "location_city",
@@ -138,7 +138,7 @@ const services = [
       "Fixed quote — no surprises",
     ],
     accent: "bg-tertiary-container",
-    img: "/Luxury car arrival at dusk.webp",
+    img: "/UK-Wide Long Distance.jpg",
   },
   {
     icon: "anchor",
@@ -168,7 +168,7 @@ const services = [
       "Hotel pick-up & drop-off",
     ],
     accent: "bg-primary",
-    img: "/Tourist Day Service.webp",
+    img: "/Tourist Day Service.jpg",
   },
   {
     icon: "home_pin",
@@ -183,7 +183,7 @@ const services = [
       "Track via real-time updates",
     ],
     accent: "bg-primary-container",
-    img: "/Local Pickups.webp",
+    img: "/Local & School Runs.jpg",
   },
 ];
 

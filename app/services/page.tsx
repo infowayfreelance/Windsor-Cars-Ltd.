@@ -18,7 +18,7 @@ const services = [
       "Fixed pricing — no surge charges",
     ],
     accent: "bg-primary",
-    img: "/Airport Transfers.jpg",
+    img: "/airport-transfers.webp",
   },
   {
     icon: "business_center",
@@ -48,7 +48,7 @@ const services = [
       "Flexible scheduling — early or late",
     ],
     accent: "bg-primary",
-    img: "/City to City Transfers.jpg",
+    img: "/city-to-city-transfers.webp",
   },
   {
     icon: "favorite",
@@ -63,7 +63,7 @@ const services = [
       "Photography-friendly presentation",
     ],
     accent: "bg-tertiary-container",
-    img: "/Luxury wedding arrival on city street.webp",
+    img: "/wedding-cars.webp",
   },
   {
     icon: "celebration",
@@ -78,7 +78,7 @@ const services = [
       "Child seats available",
     ],
     accent: "bg-secondary",
-    img: "/Special Events Glamorous arrival at a luxury event.webp",
+    img: "/special-events.webp",
   },
   {
     icon: "schedule",
@@ -93,7 +93,7 @@ const services = [
       "Available city-wide 24/7",
     ],
     accent: "bg-primary",
-    img: "/Hourly Hire.jpg",
+    img: "/hourly-hire.webp",
   },
   {
     icon: "location_city",
@@ -108,7 +108,7 @@ const services = [
       "Concierge-style service",
     ],
     accent: "bg-primary-container",
-    img: "/Luxury pickup at twilight airport terminal Service.webp",
+    img: "/london-city-travel.webp",
   },
   {
     icon: "groups",
@@ -123,7 +123,7 @@ const services = [
       "Dedicated event coordinator",
     ],
     accent: "bg-primary",
-    img: "/Corporate Transfer figures in a sleek cityscape.webp",
+    img: "/corporate-events-conferences.webp",
   },
   {
     icon: "directions_car",
@@ -138,7 +138,7 @@ const services = [
       "Fixed quote — no surprises",
     ],
     accent: "bg-tertiary-container",
-    img: "/UK-Wide Long Distance.jpg",
+    img: "/uk-wide-long-distance.webp",
   },
   {
     icon: "anchor",
@@ -153,7 +153,7 @@ const services = [
       "Return transfers coordinated",
     ],
     accent: "bg-secondary",
-    img: "/Luxury pickup at twilight airport terminal Service.webp",
+    img: "/cruise-port-transfers.webp",
   },
   {
     icon: "explore",
@@ -168,7 +168,7 @@ const services = [
       "Hotel pick-up & drop-off",
     ],
     accent: "bg-primary",
-    img: "/Tourist Day Service.jpg",
+    img: "/tourist-day-service.webp",
   },
   {
     icon: "home_pin",
@@ -183,7 +183,7 @@ const services = [
       "Track via real-time updates",
     ],
     accent: "bg-primary-container",
-    img: "/Local & School Runs.jpg",
+    img: "/local-school-runs.webp",
   },
 ];
 
@@ -211,7 +211,7 @@ export default function ServicesPage() {
           <div className="absolute inset-0 z-0">
             <img
               className="w-full h-full object-cover"
-              src="/Services Page Hero Section Image.webp"
+              src="/full-width-hero-banner-services.webp"
               alt="Luxury chauffeur service"
             />
             <div className="absolute inset-0 bg-gradient-to-r from-deep-navy/95 via-deep-navy/75 to-deep-navy/30" />

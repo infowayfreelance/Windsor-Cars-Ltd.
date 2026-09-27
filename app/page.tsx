@@ -26,32 +26,32 @@ export default function Home() {
     {
       name: "Airport Transfers",
       desc: "Real-time flight monitoring and meet-and-greet at all major London airports.",
-      img: "/Airport Transfers.jpg",
+      img: "/airport-transfers.webp",
     },
     {
       name: "City to City",
       desc: "Comfortable, punctual inter-city transfers between all major UK cities.",
-      img: "/City to City Transfers.jpg",
+      img: "/city-to-city-transfers.webp",
     },
     {
       name: "Wedding Cars",
       desc: "Bespoke wedding car hire to make your special day even more memorable.",
-      img: "/Luxury wedding arrival on city street.webp",
+      img: "/wedding-cars.webp",
     },
     {
       name: "Special Events",
       desc: "Glamorous arrivals for proms, galas, anniversaries, and every milestone.",
-      img: "/Special Events Glamorous arrival at a luxury event.webp",
+      img: "/special-events.webp",
     },
     {
       name: "Corporate Events",
       desc: "Professional transport for conferences, meetings, and corporate hospitality.",
-      img: "/Corporate Transfer figures in a sleek cityscape.webp",
+      img: "/corporate-events-conferences.webp",
     },
     {
       name: "Tourist Day Service",
       desc: "Explore the UK's finest landmarks in absolute luxury with a knowledgeable chauffeur.",
-      img: "/Tourist Day Service.jpg",
+      img: "/tourist-day-service.webp",
     },
   ];
 
@@ -121,7 +121,7 @@ export default function Home() {
           <div className="absolute inset-0 z-0">
             <img
               className="w-full h-full object-cover opacity-20"
-              src="/Luxury Chauffeuring Home Page Hero section Image.webp"
+              src="/full-width-hero-banner-home.webp"
               alt="Luxury chauffeur car"
             />
           </div>
@@ -451,7 +451,7 @@ export default function Home() {
               {/* Right: Image */}
               <div className="relative w-full max-w-md lg:max-w-lg flex-shrink-0 order-1 lg:order-2">
                 <img
-                  src="/Professional Chauffeuring Services.webp"
+                  src="/about-us-portrait-banner.webp"
                   alt="Professional chauffeur"
                   className="w-full h-64 sm:h-80 lg:h-[480px] object-cover rounded-2xl shadow-xl"
                 />
@@ -481,7 +481,7 @@ export default function Home() {
               {/* Left: car image */}
               <div className="w-full lg:w-1/2 flex-shrink-0">
                 <img
-                  src="/Luxury car arrival at dusk.webp"
+                  src="/why-choose-us-portrait-banner.webp"
                   alt="Executive car"
                   className="w-full h-64 sm:h-80 lg:h-[520px] object-cover rounded-2xl shadow-lg"
                 />
@@ -625,7 +625,7 @@ export default function Home() {
         <section className="relative py-16 sm:py-24 bg-[#0d0b22] overflow-hidden text-center">
           <div className="absolute inset-0 z-0">
             <img
-              src="/Luxury Chauffeuring Home Page Hero section Image.webp"
+              src="/experience-windsor-home-page-banner.webp"
               alt=""
               className="w-full h-full object-cover opacity-20"
             />
@@ -805,7 +805,7 @@ export default function Home() {
         <section className="relative py-16 sm:py-24 bg-deep-navy overflow-hidden text-center">
           <div className="absolute inset-0 z-0">
             <img
-              src="/Luxury Chauffeuring Home Page Hero section Image.webp"
+              src="/full-width-hero-banner-home.webp"
               alt=""
               className="w-full h-full object-cover opacity-10"
             />

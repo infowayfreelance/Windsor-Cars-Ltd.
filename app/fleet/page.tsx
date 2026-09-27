@@ -15,7 +15,7 @@ export default function FleetPage() {
             <img
               className="w-full h-full object-cover brightness-50"
               alt="Luxury executive sedan"
-              src="/Luxury car arrival at dusk.webp"
+              src="/full-width-hero-banner-our-fleet.webp"
             />
           </div>
           <div className="relative z-10 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-16 pt-20 sm:pt-24">

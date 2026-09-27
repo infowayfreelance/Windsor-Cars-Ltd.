@@ -49,7 +49,7 @@ export default function ContactPage() {
             <img
               className="w-full h-full object-cover brightness-50"
               alt="Luxury executive chauffeur"
-              src="/Luxury car arrival at dusk.webp"
+              src="/full-width-hero-banner-contact-us.webp"
             />
           </div>
           <div className="relative z-10 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-16 pt-20 sm:pt-24">

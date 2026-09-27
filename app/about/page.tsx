@@ -35,7 +35,7 @@ export default function AboutPage() {
             <img
               alt="Executive Chauffeur Service"
               className="w-full h-full object-cover"
-              src="/Professional Chauffeuring Services.webp"
+              src="/full-width-hero-banner-about-us.webp"
             />
             <div className="absolute inset-0 bg-gradient-to-r from-deep-navy/90 via-deep-navy/70 to-transparent"></div>
           </div>
@@ -114,7 +114,7 @@ export default function AboutPage() {
                 <img
                   alt="Professional Chauffeur"
                   className="rounded-xl shadow-2xl w-full"
-                  src="/Professional Chauffeuring Services.webp"
+                  src="/about-us-your-safety-our-priority.webp"
                 />
                 <div className="absolute -bottom-6 -right-4 sm:-bottom-8 sm:-right-8 bg-primary text-white p-5 sm:p-8 rounded-xl hidden sm:block">
                   <p className="text-2xl sm:text-3xl font-bold">100%</p>

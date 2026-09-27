@@ -120,7 +120,7 @@ export default function Home() {
         <section className="relative flex flex-col overflow-hidden bg-deep-navy">
           <div className="absolute inset-0 z-0">
             <img
-              className="w-full h-full object-cover opacity-20"
+              className="w-full h-full object-contain opacity-20"
               src="/full-width-hero-banner-home.webp"
               alt="Luxury chauffeur car"
             />
@@ -483,7 +483,7 @@ export default function Home() {
                 <img
                   src="/why-choose-us-portrait-banner.webp"
                   alt="Executive car"
-                  className="w-full h-64 sm:h-80 lg:h-[520px] object-cover rounded-2xl shadow-lg"
+                  className="w-full h-64 sm:h-80 lg:h-[520px] object-cover object-bottom rounded-2xl shadow-lg"
                 />
               </div>
 
